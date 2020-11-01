@@ -5,10 +5,3 @@
 
 print('hello')
 print('hello2')
-
-#这个是改变后的
-name = 'wangdali'
-if name == 'lizheng':
-    print('你好%s'%name  )
-else:
-    print('你好：%s'%name)
