@@ -1,0 +1,16 @@
+- config:
+    name: 百度测试
+    base_url: https://www.baidu.com
+
+- test:
+    name: 执行百度搜索
+    request:
+      method: GET
+      url: /s
+      params:
+        wd: newdream
+    headers:
+      User-Agent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36'
+      Accept: 'application/json, text/javascript, */*; q=0.01'
+    validate:
+      - eq: ['status_code', 200]
