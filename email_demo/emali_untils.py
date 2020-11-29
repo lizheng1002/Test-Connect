@@ -15,8 +15,8 @@ class EmaliUtils:
         self.smtp_send = '1697744867@qq.com'
         self.smtp_password = 'tuzsiapjjpqeeced'
         self.smtp_receiver = configs.SMTP_RECEIVER
-        self.smtp_cc = '1052608827@qq.com,1697744867@qq.com'
-        self.smtp_subject = '异常情况邮件发送'
+        self.smtp_cc = '1670638524@qq.com,1697744867@qq.com'
+        self.smtp_subject = '考试内容自动化邮件发送'
         self.smtp_body = smtp_body
         self.attch_path = attch_path
 
@@ -49,6 +49,6 @@ class EmaliUtils:
 
 
 if __name__ == '__main__':
-    email_u = EmaliUtils('try to learn', 'API_TEST_V2.0.html')
+    email_u = EmaliUtils('考试内容自动化邮件发送', '全栈测试班李争-接口测试（requests+httprunner）试卷.docx')
     email_u.send_mail()
 

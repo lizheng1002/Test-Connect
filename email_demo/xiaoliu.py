@@ -46,3 +46,7 @@ class EmailUtils:
 if __name__=='__main__':
     email_u = EmailUtils('test使用','./API_TEST_V2.0.html')
     email_u.send_mail()
+#连接数据库
+db = pymysql.connect(host=readConfig.host,user = readConfig.user,passwd=readConfig.passwd,db=readConfig.db) #db：库名
+#创建游标
+# cur = db.cursor()
