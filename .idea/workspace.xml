@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82ee160e-df11-44cb-b920-2c295d9699c9" name="Default Changelist" comment="回归验证提交代码--1129">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/localconfig.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/localconfig.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email_demo/emali_untils.py" beforeDir="false" afterPath="$PROJECT_DIR$/email_demo/emali_untils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email_demo/xiaoliu.py" beforeDir="false" afterPath="$PROJECT_DIR$/email_demo/xiaoliu.py" afterDir="false" />
-    </list>
+    <list default="true" id="82ee160e-df11-44cb-b920-2c295d9699c9" name="Default Changelist" comment="" />
     <list id="4c2a870f-e889-4d86-9250-fcb7de020b4f" name="Revert &quot;Revert &quot;再来一次提交&quot;&quot;" comment="Revert &quot;Revert &quot;再来一次提交&quot;&quot;&#10;&#10;This reverts commit 3cb78e68" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-1486" />
     <option name="y" value="304" />
     <option name="width" value="888" />
@@ -420,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606638058946</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commit try to--1129">
+      <created>1606638916246</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606638916246</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -435,7 +436,7 @@
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17175975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17175975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Repositories" order="3" weight="0.32982087" />
@@ -446,7 +447,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.6691974" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.6691974" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.07637656" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -538,7 +539,8 @@
     <MESSAGE value="回归验证提交代码--1129" />
     <MESSAGE value="老师代码提交--1129" />
     <MESSAGE value="自己测试的提交代码-1129" />
-    <option name="LAST_COMMIT_MESSAGE" value="自己测试的提交代码-1129" />
+    <MESSAGE value="commit try to--1129" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit try to--1129" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/email_demo/email_demo_1.py" />
