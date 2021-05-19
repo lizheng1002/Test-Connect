@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# encoding: utf-8
-# @author: liusir
-# @file: email_utils.py
-# @time: 2020/10/18 2:38 下午
+
 
 import smtplib
 import os
